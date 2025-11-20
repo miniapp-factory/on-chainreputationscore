@@ -1,0 +1,60 @@
+
+# 2025-11-20 21:01:06.599181
++Code the following app
++```
++Description:
++On-Chain Reputation Score evaluates blockchain addresses based on their transaction history and activity, providing a clear “trustworthiness” metric. Use it to assess counterparties, DeFi participants, NFT traders, and more.
++
++Key Features:
++ • Calculates a reputation score based on on-chain activity, including transaction frequency, volume, and interaction with trusted protocols.
++ • Visual analytics and history charts for each address.
++ • Alerts for unusual activity or changes in reputation.
++ • Support for multiple chains (Ethereum, Polygon, Binance Smart Chain, etc.).
++ • Easy lookup via wallet address or ENS name.
++
++Target Users:
++Crypto traders, NFT collectors, DeFi users, and anyone who wants to evaluate on-chain trustworthiness.
++
++Usage Instructions:
++ 1. Enter a wallet address or ENS name.
++ 2. View the reputation score, historical trends, and key metrics.
++ 3. Set alerts for significant changes in reputation.
++ 4. Make informed decisions when interacting with unknown addresses.
++
++Benefits:
++ • Assess counterparty reliability before engaging in transactions.
++ • Detect potential scams or risky addresses early.
++ • Gain deeper insights into on-chain behavior for smarter decisions.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 21:01:06.600012
++Code the following app
++```
++Description:
++On-Chain Reputation Score evaluates blockchain addresses based on their transaction history and activity, providing a clear “trustworthiness” metric. Use it to assess counterparties, DeFi participants, NFT traders, and more.
++
++Key Features:
++ • Calculates a reputation score based on on-chain activity, including transaction frequency, volume, and interaction with trusted protocols.
++ • Visual analytics and history charts for each address.
++ • Alerts for unusual activity or changes in reputation.
++ • Support for multiple chains (Ethereum, Polygon, Binance Smart Chain, etc.).
++ • Easy lookup via wallet address or ENS name.
++
++Target Users:
++Crypto traders, NFT collectors, DeFi users, and anyone who wants to evaluate on-chain trustworthiness.
++
++Usage Instructions:
++ 1. Enter a wallet address or ENS name.
++ 2. View the reputation score, historical trends, and key metrics.
++ 3. Set alerts for significant changes in reputation.
++ 4. Make informed decisions when interacting with unknown addresses.
++
++Benefits:
++ • Assess counterparty reliability before engaging in transactions.
++ • Detect potential scams or risky addresses early.
++ • Gain deeper insights into on-chain behavior for smarter decisions.
++```
++
++Generate an app logo and update the app metadata title and description.
